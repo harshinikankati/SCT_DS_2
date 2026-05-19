@@ -1,2 +1,0 @@
-<iframe src="https://data.worldbank.org/share/widget?indicators=SP.POP.TOTL" width='450' height='300' frameBorder='0' scrolling="no" ></iframe>
-
